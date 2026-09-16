@@ -1,5 +1,3 @@
-# Add comments before you do anything else.
-
 #!/usr/bin/env python3
 # Author: Mehtaash Kaur
 # Date: 2026/09/16
