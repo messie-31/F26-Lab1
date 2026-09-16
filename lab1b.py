@@ -10,7 +10,7 @@ num2=input("Enter second number: ")
 print(type(num1))
 print(type(num2))
 num1=int(num1)
-num2=int(num2)
+num2=int(num2) 
 
 # TO-DO 2:
 # Perform all arithmetic oeprations as outlined in the description in README.md file, and print in the required format.
