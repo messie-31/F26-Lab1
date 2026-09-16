@@ -7,6 +7,8 @@
 # TO-DO 1:
 num1=input("Enter first number: ")
 num2=input("Enter second number: ")
+print(type(num1))
+print(type(num2))
 num1=int(num1)
 num2=int(num2)
 
