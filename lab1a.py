@@ -4,11 +4,11 @@
 # Purpose: Create a variable, check its type and print the variable.
 # Usage: python3 lab1a.py
 
-# TO DO 1: Creating and using varibales
+# TO DO 1: Creating and using varibales:
 message="Welcome to PRG101"
 print(message)
 
-# TO DO 2: Checking the type of a varibale
+# TO DO 2: Checking the type of a varibale:
 print(type(message))
 
 # TO DO 3: Dynamic Typing:
